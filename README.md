@@ -1,4 +1,3 @@
-# Convolution Neural networks 
 
 ## **Introduction**  
 ## TENSORFLOW :
@@ -13,7 +12,7 @@
 ## **Projects** 
 
 #### Buiding the model multi class classification 
-* Data set :
+Data set :
  * MNIST Handwriting 
  * MNIST fashion 
    
